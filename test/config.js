@@ -1,11 +1,10 @@
 const sinon = require('sinon');
 
 
-
-const config = {
-    api_key: "user_api_key",
-    client_code: "user01",
-    jwttoken: "jwt-token",
+const config = {    
+    api_key: "mgIvc18Y",
+    client_code: "AAAN050094",
+    jwttoken: "BQ373FY2MCEO2PQLNJOLRHQSNI",
     default_login_uri :"https://smartapi.angelone.in/publisher-login",
     requestInstance: {
         request: sinon.stub(),

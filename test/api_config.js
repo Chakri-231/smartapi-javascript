@@ -1,8 +1,8 @@
 const request = {
     generatingSession: {
-        client_code: "user11",
-        password: "1234",
-        totp: "122234"
+        client_code: "AAAN050094",
+        password: "Chakri@709",
+        totp: "BQ373FY2MCEO2PQLNJOLRHQSNI"
     },
     placeOrder: {
         "variety": "NORMAL",
